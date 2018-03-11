@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class CubeDrawer : MonoBehaviour
+public class CubeDrawing : MonoBehaviour
 {
     const float linelen = 12;
     const float linewidth = .1f;
